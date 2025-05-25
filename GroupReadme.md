@@ -54,13 +54,3 @@ Each test was constructed to:
   * **Lack of clamping** for values > 255.
   * **Failure to handle negatives** gracefully.
   * **Incorrect averaging and matrix traversal**.
-
----
-
-### 📌 Next Steps
-
-The test suite will now be reused in **Step 2** as we transition to:
-
-* Building a CI/CD pipeline,
-* Creating a Singularity container,
-* Automating execution on HPC via SLURM.
