@@ -1,4 +1,3 @@
-```markdown
 # SE4HPC – Task 1: Unit Testing & CI Pipeline
 
 ## 🎯 Objective
