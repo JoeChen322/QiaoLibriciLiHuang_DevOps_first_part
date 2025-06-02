@@ -69,10 +69,6 @@ This ensures immediate feedback on code changes and prevents regressions.
 - **Google Test setup**: Integrated GTest as a submodule and resolved linking issues.
 - **CI environment issues**: Addressed missing package errors by installing system dependencies in the workflow.
 
-### ❌ Remaining
-
-- Some tests depend on external files (e.g., image data), which slows down test runs and complicates mocking.
-
 ---
 
 ## 📄 License
